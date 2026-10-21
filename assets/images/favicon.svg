@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="favGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#17324D" />
+      <stop offset="100%" stop-color="#087F8C" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#favGrad)" />
+  <!-- Gift Box Ribbon & Icon -->
+  <path d="M16 26h32v6H16z" fill="#C58B55" />
+  <path d="M20 32h24v20H20z" fill="#FFFFFF" fill-opacity="0.95" rx="3" />
+  <path d="M30 32h4v20h-4z" fill="#C58B55" />
+  <!-- Bow -->
+  <path d="M32 26c-4-6-10-6-10-1s6 6 10 7c4-1 10-2 10-7s-6-5-10 1z" fill="#E8D3BF" />
+</svg>

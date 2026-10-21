@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <filter id="merchShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#102538" flood-opacity="0.12" />
+    </filter>
+  </defs>
+
+  <rect width="800" height="600" fill="#FAF8F4" />
+
+  <g filter="url(#merchShadow)">
+    <rect x="70" y="60" width="660" height="480" rx="20" fill="#FFFFFF" stroke="#E1E4E6" stroke-width="2" />
+
+    <!-- Folded Polo Shirt -->
+    <g transform="translate(120, 110)">
+      <path d="M40 0h140l30 40-20 30-20-10v180H50V60L30 70 10 40z" fill="#17324D" />
+      <!-- Collar -->
+      <polygon points="80,0 110,45 140,0" fill="#087F8C" />
+      <rect x="105" y="45" width="10" height="40" fill="#102538" />
+      <circle cx="110" cy="55" r="3" fill="#FFFFFF" />
+      <circle cx="110" cy="72" r="3" fill="#FFFFFF" />
+      <!-- Chest Embroidery -->
+      <circle cx="150" cy="90" r="12" fill="#C58B55" />
+      <text x="110" y="275" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="12" fill="#17324D" text-anchor="middle">CUSTOM POLO SHIRT</text>
+    </g>
+
+    <!-- Wireless Powerbank -->
+    <g transform="translate(370, 110)">
+      <rect width="140" height="210" rx="14" fill="#087F8C" />
+      <circle cx="70" cy="105" r="35" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-dasharray="10 6" />
+      <polygon points="68,85 78,105 70,105 72,125 60,105 68,105" fill="#FFFFFF" />
+      <rect x="50" y="165" width="40" height="6" rx="3" fill="#066872" />
+      <circle cx="40" cy="168" r="3" fill="#25D366" />
+      <text x="70" y="245" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="12" fill="#17324D" text-anchor="middle">POWERBANK 10.000MAH</text>
+    </g>
+
+    <!-- Ceramic Coffee Mug -->
+    <g transform="translate(540, 120)">
+      <rect x="20" y="20" width="110" height="130" rx="10" fill="#102538" />
+      <!-- Handle -->
+      <path d="M130 45h20c15 0 15 60 0 60h-20" fill="none" stroke="#102538" stroke-width="14" stroke-linecap="round" />
+      <!-- Mug Print -->
+      <rect x="40" y="60" width="70" height="35" rx="6" fill="#C58B55" fill-opacity="0.2" />
+      <text x="75" y="82" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="10" fill="#E8D3BF" text-anchor="middle">COMPANY LOGO</text>
+      <text x="75" y="175" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="12" fill="#17324D" text-anchor="middle">CERAMIC MUG</text>
+    </g>
+
+    <!-- Bottom Feature Strip -->
+    <g transform="translate(120, 395)">
+      <rect width="560" height="85" rx="12" fill="#F0EEE8" stroke="#E1E4E6" stroke-width="1.5" />
+      <text x="280" y="35" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="14" fill="#17324D" text-anchor="middle">OPSI BRANDING: GRAFIR LASER • SABLON • BORDIR • UV PRINT</text>
+      <text x="280" y="60" font-family="'Plus Jakarta Sans', sans-serif" font-weight="500" font-size="12" fill="#64717D" text-anchor="middle">Kustomisasi presisi tinggi untuk memperkuat identitas brand korporat Anda</text>
+    </g>
+  </g>
+</svg>

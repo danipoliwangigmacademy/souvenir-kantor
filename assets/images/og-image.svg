@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="ogBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#102538" />
+      <stop offset="100%" stop-color="#17324D" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#ogBg)" />
+
+  <!-- Accent Geometry -->
+  <circle cx="1080" cy="120" r="320" fill="#087F8C" fill-opacity="0.15" />
+  <circle cx="150" cy="550" r="240" fill="#C58B55" fill-opacity="0.1" />
+
+  <!-- Brand Eyebrow -->
+  <g transform="translate(100, 140)">
+    <rect width="260" height="40" rx="20" fill="#087F8C" fill-opacity="0.25" stroke="#087F8C" stroke-width="1.5" />
+    <text x="130" y="25" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="14" fill="#6EE7B7" text-anchor="middle" letter-spacing="2">PENGADAAN MERCHANDISE B2B</text>
+  </g>
+
+  <!-- Big Title -->
+  <text x="100" y="245" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="52" fill="#FFFFFF" letter-spacing="-1">
+    Souvenir Kantor &amp;
+  </text>
+  <text x="100" y="315" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="52" fill="#C58B55" letter-spacing="-1">
+    Corporate Gift Premium
+  </text>
+
+  <!-- Subtitle -->
+  <text x="100" y="390" font-family="'Plus Jakarta Sans', sans-serif" font-weight="400" font-size="22" fill="#B4C2D1" letter-spacing="0">
+    Solusi onboarding kit, seminar kit, hampers korporat, dan merchandise
+  </text>
+  <text x="100" y="425" font-family="'Plus Jakarta Sans', sans-serif" font-weight="400" font-size="22" fill="#B4C2D1" letter-spacing="0">
+    perusahaan dengan spesifikasi terukur dan alur penawaran resmi.
+  </text>
+
+  <!-- Features Grid -->
+  <g transform="translate(100, 490)">
+    <rect width="210" height="48" rx="8" fill="#1A3B5C" stroke="#2D557F" stroke-width="1" />
+    <text x="105" y="30" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" text-anchor="middle">✓ Kustomisasi Logo Presisi</text>
+  </g>
+  <g transform="translate(330, 490)">
+    <rect width="210" height="48" rx="8" fill="#1A3B5C" stroke="#2D557F" stroke-width="1" />
+    <text x="105" y="30" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" text-anchor="middle">✓ Faktur &amp; Dokumen Resmi</text>
+  </g>
+  <g transform="translate(560, 490)">
+    <rect width="210" height="48" rx="8" fill="#1A3B5C" stroke="#2D557F" stroke-width="1" />
+    <text x="105" y="30" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" text-anchor="middle">✓ Konsultasi Langsung WA</text>
+  </g>
+</svg>
